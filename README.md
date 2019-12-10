@@ -1,0 +1,2 @@
+# SevsCandy
+A school project
